@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <math.h>
+<<<<<<< HEAD
 size_t my_strlen(const char *s)
+=======
+size_t my_strlen(char *s)
+>>>>>>> 3051a307c38f87bac2d3556a19e7ddfd1299d4c6
 {
    char *p = s;
 
